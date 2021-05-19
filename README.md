@@ -30,7 +30,11 @@ Steps Included in the Neural Network process :
 
   1. Sequential API
   2. Functional API
+  
       a. Restoring and Saving
+      
       b. CallBacks
+      
       c. Finding the Best Model.
+      
       d. Early Stopping
